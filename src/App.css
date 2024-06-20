@@ -28,6 +28,8 @@
   color: white;
 }
 h1{
+  background-color: black;
+  padding: 5px;
   color: rgb(242, 240, 255);
   margin: 50px 0px;
 }
